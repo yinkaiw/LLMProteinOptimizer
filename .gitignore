@@ -1,0 +1,7 @@
+./single_objective/main/molleo/log
+./single_objective/main/molleo/results
+./single_objective/*.json
+./multi_objective/main/molleo/log
+./multi_objective/main/molleo/results
+./multi_objective/*.json
+./single_objective/ALDE
